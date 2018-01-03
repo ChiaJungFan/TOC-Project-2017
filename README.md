@@ -49,11 +49,11 @@ Every time `user` state is triggered to `advance` to another state, it will `go_
 
 * user
 	* Input: "breakfast"
-		* Reply: "ncku breakfast searching result"
+		* Reply: ncku breakfast searching result
 
 	* Input: "drink"
-		* Reply: "ncku drink searching result"
+		* Reply: ncku drink searching result
 	
 	* Input: "food"
-		* Reply: "ncku food searching result"
+		* Reply: ncku food searching result
 
